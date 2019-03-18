@@ -5,6 +5,7 @@ This will use timer to Show Count UP/Down in String with proper time format
 ```
 //Declare variable
 var count = 0
+var videoTimer: Timer!
 
 //Call It in ViewDidLaod
 
